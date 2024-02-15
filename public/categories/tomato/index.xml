@@ -6,18 +6,7 @@
     <description>Recent content in tomato on Cooperstone Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/categories/tomato/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tomato steroidal alkaloids</title>
-      <link>https://www.cooperstonelab.com/blog/tomato-alkaloids/</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.cooperstonelab.com/blog/tomato-alkaloids/</guid>
-      <description>We are working to understand the profile and concentrations of tomato alkaloids across germplasm, their genetic control in fruits, and their absorption, distribution, metabolism, excretion, and health impact in those who enjoy tomatoes.
-Here is some work we&amp;rsquo;ve published on the topic:
- Dzakovich MP, Francis DM, Cooperstone JL. Steroidal alkaloid biosynthesis is coordinately regulated and differs among tomatoes in the red-fruited clade. Plant Genome, 2022;15:e20192. Dzakovich MP, Hartman JL, Cooperstone JL.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/categories/tomato/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metabolomics</title>
       <link>https://www.cooperstonelab.com/blog/metabolomics/</link>
@@ -26,7 +15,7 @@ Here is some work we&amp;rsquo;ve published on the topic:
       <guid>https://www.cooperstonelab.com/blog/metabolomics/</guid>
       <description>Metabolomics allows the comprehensive profiling of hundreds to thousands of small molecules present within a system. By using this approach, we can understand how metabolic changes (in plants, cells, animals, or people) are affected by our research question, and generate new ideas we may not be able to a priori hypothesize.
 Here is some work we&amp;rsquo;ve published on the topic:
- Bilbrey EA, Williamson K, Hatzakis E, Doud Miller D, Fresnedo Ramírez J, Cooperstone JL.</description>
+ Emanuel I, Cooperstone JL, Hand-Peduto F. UHPLC-MS/MS identification of metabolites in winterberry fruit putatively associated with natural disease resistance to Diaporthe ilicicola.</description>
     </item>
     
     <item>
@@ -35,9 +24,9 @@ Here is some work we&amp;rsquo;ve published on the topic:
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.cooperstonelab.com/blog/method-development/</guid>
-      <description>In order to understand what phytochemicals are doing within a system, robust and quantitative methods are required for their analysis. We focus on developing liquid chromatography and mass spectrometry based methods to allow analysis of phytochemicals and their metabolites, often present at picomolar concentrations.
+      <description>In order to understand what phytochemicals are doing within a system, robust and quantitative methods are required for their analysis. We focus on developing liquid chromatography and mass spectrometry based methods to allow analysis of phytochemicals and their metabolites, often present at picomolar concentrations. Some papers here are also included which use our methods.
 Here is some work we&amp;rsquo;ve published on the topic:
- Dzakovich MP, Hartman JL, Cooperstone JL. A high-throughput extraction and analysis method for steroidal glycoalkaloids in tomato.</description>
+ Fenstemaker S, Sim L, Cooperstone JL, Francis DM.</description>
     </item>
     
     <item>
@@ -48,7 +37,18 @@ Here is some work we&amp;rsquo;ve published on the topic:
       <guid>https://www.cooperstonelab.com/blog/nutritional-interventions/</guid>
       <description>To determine the in vivo health impacts of fruits and vegetables and their constituent phytochemicals, we conduct studies in animals and humans. We look to understand absorption, metabolism, distribution, excretion, and effect on development of disease.
 Here is some work we&amp;rsquo;ve published on the topic:
-In humans:  Cooperstone JL, Novotny JA, Riedl KM, Cichon MJ, Francis DM, Curley Jr. RW, Schwartz SJ, Harrison EH. Limited appearance of apocarotenoids is observed in plasma after consumption of tomato juices, a randomized human clinical trial.</description>
+In humans:  Thomas M, Puglisi M, Malysheva O, Caudill M, Sholola MJ, Cooperstone JL, Fernandez ML. Eggs improve plasma biomarkers in patients with metabolic syndrome following a plant-based diet.</description>
+    </item>
+    
+    <item>
+      <title>Tomato steroidal alkaloids</title>
+      <link>https://www.cooperstonelab.com/blog/tomato-alkaloids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/blog/tomato-alkaloids/</guid>
+      <description>We are working to understand the profile and concentrations of tomato alkaloids across germplasm, their genetic control in fruits, and their absorption, distribution, metabolism, excretion, and health impact in those who enjoy tomatoes.
+Here is some work we&amp;rsquo;ve published on the topic:
+ Dzakovich MP, Goggans ML, Thomas-Ahner JM, Moran NE, Clinton SK, Francis DM, Cooperstone JL. Transcriptomics and metabolomics reveal tomato consumption alters hepatic xenobiotic metabolism and induces steroidal alkaloid metabolite accumulation in mice.</description>
     </item>
     
   </channel>
