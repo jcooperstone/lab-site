@@ -136,15 +136,20 @@ enableEmoji = true
     title = "Teaching"
     url = "/teaching/"
     weight = 4
+#  [[menu.header]]
+#    name = "Analytical"
+#    title = "Analytical services"
+#    url = "/analytical/"
+#    weight = 5
   [[menu.header]]
-    name = "Analytical"
-    title = "Analytical services"
-    url = "/analytical/"
-    weight = 5
+    name = "Analytical work"
+    title = "Analytical work"
+    url = "/analytical-work/"
+    weight = 6
   [[menu.header]]
     name = "Fun stuff"
     title = "Fun stuff"
-    url = "/elements/"
+    url = "/fun/"
     weight = 7
     
   # Configure footer  
