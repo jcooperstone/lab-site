@@ -6,7 +6,16 @@
     <description>Recent content in teaching on Cooperstone Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Aug 2023 15:55:59 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Aug 2023 10:00:59 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multi-omics Integration for Crop Improvement Journal Club</title>
+      <link>https://www.cooperstonelab.com/teaching/2023_journal-club/</link>
+      <pubDate>Fri, 25 Aug 2023 10:00:59 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/teaching/2023_journal-club/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Methods in Data Visualization in R</title>
       <link>https://www.cooperstonelab.com/teaching/2023_data-viz/</link>

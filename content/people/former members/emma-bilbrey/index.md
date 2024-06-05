@@ -14,8 +14,8 @@ weight: 7
 *Degree:* M.S.. <br>
 *Program:* Horticulture and Crop Science <br>
 *Years in the lab (as a student):* 2018-2020 <br>
-*Years in the lab (as staff):* part-time in the flower farming off-season
-*Dissertation title:* Seeding multi-omic improvement of apple
+*Years in the lab (as staff):* part-time in the flower farming off-season <br>
+*Thesis title:* Seeding multi-omic improvement of apple
 <br> <br>
 *What has Emma been doing since she left the lab:* After she completed her M.S., Emma started her very own flower farm, [Hickory Hills Flower Farm](https://www.hickoryhillsflowerfarm.com/) in Valparaiso, IN. She also works part-time for the Cooperstone lab as a data scientist. <br>
 
