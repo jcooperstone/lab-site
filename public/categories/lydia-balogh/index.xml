@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lydia balogh on Cooperstone Lab</title>
+    <link>https://www.cooperstonelab.com/categories/lydia-balogh/</link>
+    <description>Recent content in lydia balogh on Cooperstone Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.cooperstonelab.com/categories/lydia-balogh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple genome-metabolome integration</title>
+      <link>https://www.cooperstonelab.com/blog/apples/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cooperstonelab.com/blog/apples/</guid>
+      <description>Apples are the most consumed fruit in the US and both anectdotally and actually keep the doctor away. But apple breeding is challenged by many factors. We are working to aid the process of breeding healthier apples by better understanding apple genome-metabolite relationships.
+Here is some work we&amp;rsquo;ve published on the topic:
+ Bilbrey EA, Williamson K, Hatzakis E, Doud Miller D, Fresnedo Ramírez J, Cooperstone JL. Integrating genomics and multi-platform metabolomics enables metabolite QTL detection in breeding-relevant apple germplasm.</description>
+    </item>
+    
+  </channel>
+</rss>
